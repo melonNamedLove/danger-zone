@@ -12,4 +12,4 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 will be published soon
 
 ## Memo
-https://www.notion.so/me1on/private-portfolio-proj-148a80d9792480649398ed029eaa1a9f?pvs=4
+https://me1on.notion.site/private-portfolio-proj-148a80d9792480649398ed029eaa1a9f?pvs=4
