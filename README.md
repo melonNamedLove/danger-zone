@@ -2,10 +2,7 @@
 
 This is a project built with [Next.js 14](https://nextjs.org/), [shadcn/ui](https://ui.shadcn.com/) components, and [Bun](https://bun.sh/) runtime, bootstrapped using [`create-next-app`](https://nextjs.org/docs/getting-started/installation) and enhanced with the [shadcn/ui CLI](https://ui.shadcn.com/docs/installation/next).
 
-## Getting Started
-
-First, run the development server:√
-
+## Run
 ```bash
 bun --bun run dev
 ```
